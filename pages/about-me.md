@@ -6,14 +6,14 @@ permalink: /about-me.html
 about:
   name: Cara Hicks
   role: Junior, Cybersecurity Intelligence Management at Morgan State University
-  image: /assets/images/me.jpg
+  image: /assets/images/Me.jpg
   linkedin: https://www.linkedin.com/in/cara-hicks-a63065329/
   bio: |
     I’m currently a junior studying Cybersecurity Intelligence Managment at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My research will explore explore deep learning, multimodal AI, explainable AI, and fairness in AI for skin cancer detection.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy playing squash, Hiking, as well as trying new activites and restaurants.
 
   hobbies:
     - icon: 🎺
