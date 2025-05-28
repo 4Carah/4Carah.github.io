@@ -9,7 +9,7 @@ about:
   image: /assets/images/me.jpg
   linkedin: https://www.linkedin.com/in/cara-hicks-a63065329/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a junior studying Cybersecurity Intelligence Managment at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
