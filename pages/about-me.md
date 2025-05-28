@@ -4,10 +4,10 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Cara Hicks
+  role: Junior, Cybersecurity Intelligence Management at Morgan State University
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/cara-hicks-a63065329/
   bio: |
     I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
 
