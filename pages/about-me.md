@@ -13,18 +13,18 @@ about:
 
     My research will explore explore deep learning, multimodal AI, explainable AI, and fairness in AI for skin cancer detection.
 
-    When I’m not working on research, I enjoy playing squash, Hiking, as well as trying new activites and restaurants.
+    When I’m not working on research, I enjoy playing squash, Hiking, and exploring new activites and restaurants.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🎾
+      title: Squash
+      description: I’ve been playing squash since middle school and love staying active.
+    - icon: 🏕
+      title: Hiking/camping
+      description: I enjoy hiking to scenic spots and taking time to appreciate the beauty of my surroundings.
+    - icon: 🍜
+      title: Restaurants
+      description: I love trying new resturants and new food.
 
   gallery:
     - image: /assets/images/me-guitar.png
