@@ -3,34 +3,30 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: trustworthy multimodal AI system
+project_title: "Trustworthy Multimodal AI for Skin Cancer Detection"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
-
+  The main problem we're tackling is the bias and lack of trust in AI systems used for skin cancer detection. A lot of current models tend to struggle with accurately identifying skin issues especially cancerous cells on melanin skin. This often happens because the data used to train these models doesn’t represent a wide range of skin tones. Our goal isn’t just to point out the problem, but to actually build a better model—one that can detect skin cancer accurately and fairly across all skin tones. We're also focused on making sure the model is explainable, so both clinicians and patients can understand how it works and trust the results it gives.
+  
 approach: |
-  The project follows a four-phase pipeline:
-
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
-
+  The primary approach of this research include:
+   Developing a deep learning pipeline that integrates image data with patient metadata for improved classification.
+   
+   Investigating bias mitigation techniques to ensure fairness across diverse skin tones.
+   
+   Enhancing model explainability to support clinicians' decision-making and increase patient trust in AI diagnostics
+   
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  This project gives us the opportunity to develop trustworthy AI models for skin cancer detection using multimodal learning. We will work with both dermatoscopic images and patient metadata, gaining experience with deep learning techniques. We will also apply explainable AI methods like Grad-CAM and SHAP to improve model transparency. The program covers essential data preprocessing techniques, including image rescaling, segmentation, and contrast enhancement, while also addressing critical issues like bias and fairness in AI. By the end of the project, we will have created a functional AI model, written a research paper, and delivered a final presentation showcasing their results.
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+final_report_url: https://canvas.instructure.com/files/298706051/download?download_frd=1
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
-
+  name: Adeika Blessing
+  linkedin: https://www.linkedin.com/in/blessing-isoyiza-adeika/
+  
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Saroj K Pramanik 
+  linkedin: https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
 ---
