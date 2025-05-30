@@ -4,23 +4,18 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Adeika Blessing
+  title: Doctoral, Computer and Electrical Engineering
+  image: 
+  website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Ms. Blessing has collaborated with me on AI-related projects over the past two summers (2023 and 2024), demonstrating strong proficiency in Python programming. During the academic year 2022–2023, she also worked in my lab for nearly two semesters, where she developed a software tool to support online students in the Photosynthesis and Respiratory Laboratory. Her contributions to AI projects include developing a DNA sequence classifier using machine learning in Summer 2023, and working on plant leaf detection using machine learning and deep learning techniques in Summer 2024. Notably, her work on the DNA classifier project led to a co-authored research publication titled "Ensemble and Transformer Models for Infectious Disease Prediction" (Blessing A, Joseph A, Temileye I, Tijesunimi A, Rahan Md, Pramanik S, 2023), which focused on using transformer models to predict infectious diseases based on human genomic sequences.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
-
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Saroj K Pramanik 
+  title: Professor Pramanik , Morgan State University
   image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  website: https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
-
+    Dr. Saroj K Pramanik holds both an M.S. and a Ph.D. in Biochemistry from the Indian Agricultural Research Institute in New Delhi, India. Their research interests span a diverse range of fields, including bioremediation, somatic embryogenesis of plants, protein synthesis, and cancer drug development. Dr. Saroj K Pramanik current research efforts focus on the translational control of gene expression during cellular differentiation, bioremediation of toxic chemicals through plant-microbial interactions, development of biomarkers for cancer detection and therapeutic intervention, and the study of somatic embryogenesis in plants.
 ---
