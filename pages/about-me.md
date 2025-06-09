@@ -29,8 +29,8 @@ about:
   gallery:
     - image: /assets/images/sqaush%20raquets.jpg
       caption: My Favorite squash raquets!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+    - image: /assets/images/waterfall.jpg
+      caption: Unwinding by the waterfall after a long day
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
