@@ -33,6 +33,6 @@ about:
       caption: Unwinding by the waterfall after a long day
     - image: /assets/images/tenable.jpg
       caption: Shadow day at Tenable
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/Dahlia.jpg
+      caption: Growing Dahlia
 ---
