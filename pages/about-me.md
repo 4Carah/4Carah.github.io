@@ -27,8 +27,8 @@ about:
       description: I love trying new resturants and new food.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: /assets/images/sqaush%20raquets.jpg
+      caption: My Favorite squash raquets!
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
