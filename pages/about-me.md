@@ -31,8 +31,8 @@ about:
       caption: My Favorite squash raquets!
     - image: /assets/images/waterfall.jpg
       caption: Unwinding by the waterfall after a long day
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
+    - image: /assets/images/tenable.jpg
+      caption: Shadow day at Tenable
     - image: /assets/images/me-pi.png
       caption: Working on a personal project w/ the Raspberry PI
 ---
